@@ -6,7 +6,9 @@
             "CrowdStrikeFalcon": "Push int readme addon text for MS defender"
         },
         "Mappings": {},
-        "Visual Family": {},
+        "Visual Family": {
+            "stageupvisualfamilies": "Readme  addon for custom family"
+        },
         "Playbook": {
             "stageupPlaybook": "Push playbook and block"
         },

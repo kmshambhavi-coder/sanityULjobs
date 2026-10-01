@@ -13,3 +13,9 @@
 |stageupPlaybook|test description|
 |stageupblock|An embedded workflow that can receive inputs and return an output.|
 
+
+## Visual Families
+|Name|Description|
+|----|-----------|
+|stageupvisualfamilies|stageupvisualfamilies|
+
