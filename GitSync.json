@@ -12,7 +12,9 @@
         "Playbook": {
             "stageupPlaybook": "Push playbook and block"
         },
-        "Connector": {},
+        "Connector": {
+            "stageupconnector": "Push Connectors readme addon"
+        },
         "Job": {},
         "Block": {}
     },

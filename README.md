@@ -7,6 +7,12 @@
 |CrowdStrike Falcon|CrowdStrike Falcon is the leader in next-generation endpoint protection, threat intelligence and incident response through cloud-based endpoint protection.|
 
 
+## Connectors
+|Name|Description|Has Mappings|
+|----|-----------|------------|
+|stageupconnector|Pull information about Rule based alerts from Google Chronicle. Note: dynamic list is used for filtering purposes. For all of the details please visit the documentation portal.|True|
+
+
 ## Playbooks
 |Name|Description|
 |----|-----------|
