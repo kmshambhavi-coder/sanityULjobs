@@ -17,7 +17,9 @@
         "Connector": {
             "stageupconnector": "Push Connectors readme addon"
         },
-        "Job": {},
+        "Job": {
+            "stageupjob": "readme addon text "
+        },
         "Block": {}
     },
     "settings": {
