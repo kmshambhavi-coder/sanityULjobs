@@ -10,7 +10,7 @@
 ## Connectors
 |Name|Description|Has Mappings|
 |----|-----------|------------|
-|stageupconnector|Pull information about Rule based alerts from Google Chronicle. Note: dynamic list is used for filtering purposes. For all of the details please visit the documentation portal.|True|
+|stageupconnector|Pull information about Rule based alerts from Google Chronicle. Note: dynamic list is used for filtering purposes. For all of the details please visit the documentation portal.|False|
 
 
 ## Playbooks

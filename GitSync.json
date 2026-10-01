@@ -5,7 +5,9 @@
             "CaServiceDesk": "Push int readme addon text for MS defender",
             "CrowdStrikeFalcon": "Push int readme addon text for MS defender"
         },
-        "Mappings": {},
+        "Mappings": {
+            "Microsoft CASB": "readme addon for mappings"
+        },
         "Visual Family": {
             "stageupvisualfamilies": "Readme  addon for custom family"
         },
