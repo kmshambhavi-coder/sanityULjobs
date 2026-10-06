@@ -1,5 +1,5 @@
 {
-    "system_version": "6.999.9999.3410",
+    "system_version": "6.999.9999.3506",
     "readme_addons": {
         "Integration": {
             "CaServiceDesk": "Push int readme addon text for MS defender",
@@ -18,7 +18,8 @@
             "stageupconnector": "Push Connectors readme addon"
         },
         "Job": {
-            "stageupjob": "readme addon text "
+            "stageupjob": "readme addon text ",
+            "Google Chronicle Alerts Creator Job": "test 22222"
         },
         "Block": {}
     },
